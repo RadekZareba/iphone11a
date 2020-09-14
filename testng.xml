@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="b2b">
         <classes>
-            <class name="iphone11.searchTest">
+            <class name="iphone11.SearchTest">
                 <methods>
                     <include name="search"/>
                 </methods>

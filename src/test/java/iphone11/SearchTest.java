@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-public class searchTest {
+public class SearchTest {
     final double VAT = 0.0123;
     private static WebDriver driver;
     final private String URL = "https://www.allegro.pl";
